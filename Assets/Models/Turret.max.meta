@@ -8,19 +8,28 @@ ModelImporter:
     100000: //RootNode
     100002: Gun_left
     100004: Gun_right
+    100006: Box001
+    100008: Cylinder001
     400000: //RootNode
     400002: Gun_left
     400004: Gun_right
+    400006: Box001
+    400008: Cylinder001
     2300000: //RootNode
     2300002: Gun_left
     2300004: Gun_right
+    2300006: Box001
+    2300008: Cylinder001
     3300000: //RootNode
     3300002: Gun_left
     3300004: Gun_right
+    3300006: Box001
+    3300008: Cylinder001
     4300000: Box001
     4300002: Turret
     4300004: Gun_right
     4300006: Gun_left
+    4300008: Cylinder001
     9500000: //RootNode
   materials:
     importMaterials: 1
